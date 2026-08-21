@@ -58,8 +58,7 @@ Entre las principales se encuentran:
 
 ### Esquema de la BBDD
 
-![Esquema de la base de datos](BBDD_Schema_Shakila.png)
-
+![Esquema de la base de datos](BBDD_Schema_Shakila_.png)
 ---
 
 ## Desarrollo del proyecto
